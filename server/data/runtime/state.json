@@ -1,0 +1,1091 @@
+{
+  "users": [
+    {
+      "id": "a51956dc-1822-436f-b738-17799af54ce0",
+      "name": "Priya",
+      "email": "priya@gmail.com",
+      "passwordHash": "$2b$12$6JPPjH3IFSBFr1RU3hQ67uF.mCMjNstqWUQZ4hiMKV6pQY2LEbCLK",
+      "role": "user",
+      "language": "en",
+      "createdAt": "2026-04-24T06:57:38.231Z"
+    },
+    {
+      "id": "fdfa6743-2156-4f4e-8191-eda2d5acf161",
+      "name": "Nanthini",
+      "email": "nanthini@gmail.com",
+      "passwordHash": "$2b$12$0Ithbu.eqyrSZZC.VdvtMu/7uDnIDSLCgz0QSf.FWjyb9U9g9DuHi",
+      "role": "user",
+      "language": "en",
+      "createdAt": "2026-04-23T14:52:27.459Z"
+    },
+    {
+      "id": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "name": "nan",
+      "email": "nanthiniamir1310@gmail.com",
+      "passwordHash": "$2b$12$xYY1Vgz6R7qd3OVnsgHVeu4QyVGggyNZoxr/mIhuY7CMd.01hiXTm",
+      "role": "user",
+      "language": "en",
+      "createdAt": "2026-04-06T13:36:18.243Z"
+    },
+    {
+      "id": "admin-1",
+      "name": "System Admin",
+      "email": "admin@lumina.local",
+      "passwordHash": "$2b$10$ZoE8vAZptzegJhJQMAiuTORiA4G4zTEfsfWHhIwxm4bOKJmrctx5S",
+      "role": "admin",
+      "language": "en",
+      "createdAt": "2026-04-06T13:32:39.946Z"
+    }
+  ],
+  "sessions": [],
+  "conversations": [
+    {
+      "id": "79171502-34f8-4821-a380-7f293e5fb874",
+      "userId": "69eb1778d6b6ee972cb59b2e",
+      "question": "Explain compound interest in simple terms.",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: A savings account grows faster when interest is added back into the balance each year.",
+      "domain": "Education",
+      "createdAt": "2026-04-24T07:11:27.513Z"
+    },
+    {
+      "id": "eb4c1530-ac85-4c3a-b03b-b41279bd9510",
+      "userId": "admin-1",
+      "question": "Name the continents",
+      "answer": "Definition: name the continents is an important idea in its subject area. Explanation: It describes the core facts, steps, or principles that help explain how name the continents works. Example: A real-world example of name the continents shows how the idea applies in practice.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:55:02.835Z"
+    },
+    {
+      "id": "93939491-4a90-4b91-acbd-33c8d8434799",
+      "userId": "admin-1",
+      "question": "How does async/await work in JavaScript?",
+      "answer": "Definition: Async/await is a JavaScript syntax for handling asynchronous tasks using promises. Explanation: The async keyword makes a function return a promise, and await pauses execution until a promise settles. This makes asynchronous code easier to read and maintain. Example: const data = await fetch(url) waits for the response before the next line runs.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:54:56.532Z"
+    },
+    {
+      "id": "142e18dc-ea84-4a04-8d59-3692b96d6a93",
+      "userId": "admin-1",
+      "question": "Name the continents",
+      "answer": "Definition: name the continents is an important idea in its subject area. Explanation: It describes the core facts, steps, or principles that help explain how name the continents works. Example: A real-world example of name the continents shows how the idea applies in practice.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:54:21.038Z"
+    },
+    {
+      "id": "b1066948-83b9-4f69-b429-9341d6931e0a",
+      "userId": null,
+      "question": "Now explain it with a real-life example.",
+      "answer": "Definition: Compound interest is interest calculated on both principal and accumulated interest. Explanation: As interest is added each period, the base amount grows, so future interest becomes larger. This creates faster growth than simple interest. Example: If you invest 1000 at 10 percent annually, the second year interest is calculated on 1100, not 1000.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:52:20.537Z"
+    },
+    {
+      "id": "d999eec6-6969-4f0b-b61c-14c7feb08faf",
+      "userId": null,
+      "question": "Now explain it with a real-life example.",
+      "answer": "Definition: now explain it with a real-life example is an important idea in its subject area. Explanation: It describes the core facts, steps, or principles that help explain how now explain it with a real-life example works. Example: A real-world example of now explain it with a real-life example shows how the idea applies in practice.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:49:57.436Z"
+    },
+    {
+      "id": "dac0e7fc-0bb0-421b-917a-5d096e347246",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: A savings account grows faster when interest is added back into the balance each year.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:49:37.804Z"
+    },
+    {
+      "id": "6ea6a961-d889-4140-8d79-34bdfbac6718",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:41:09.028Z"
+    },
+    {
+      "id": "5bc42074-03ec-4a59-b47b-7b3333c04da1",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:37:50.018Z"
+    },
+    {
+      "id": "b6a5a5de-090e-424a-901e-d48c4d8fc35a",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:36:25.786Z"
+    },
+    {
+      "id": "69c89f6f-1a6d-4be6-a201-4aa39b3b7a3e",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:31:41.764Z"
+    },
+    {
+      "id": "702c8f67-7c7f-4312-bb7d-03b2823f1c6d",
+      "userId": "admin-1",
+      "question": "Name the continents",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:27:08.275Z"
+    },
+    {
+      "id": "32c18f65-932e-4d5a-90d4-0c30336c5c03",
+      "userId": "admin-1",
+      "question": "Give me image of a computer",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:26:33.460Z"
+    },
+    {
+      "id": "723f1821-e1fb-4f1f-934d-8b7e49c0b17b",
+      "userId": "admin-1",
+      "question": "i want in points",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:26:04.291Z"
+    },
+    {
+      "id": "e815c06e-2890-4666-9740-09f467ccb7b5",
+      "userId": "admin-1",
+      "question": "What is computer?",
+      "answer": "Definition: A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Explanation: Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:25:53.141Z"
+    },
+    {
+      "id": "d2f599b2-e3d4-468a-b8f1-7cd22a91bf1b",
+      "userId": "admin-1",
+      "question": "What is AI?",
+      "answer": "Definition: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. Explanation: It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:25:34.544Z"
+    },
+    {
+      "id": "20677d71-f2b3-4757-867a-2fa282866f60",
+      "userId": null,
+      "question": "Explain compound interest in simple terms.",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:04:43.830Z"
+    },
+    {
+      "id": "259bc168-9c2a-4b28-9b17-232b0c6bb02c",
+      "userId": null,
+      "question": "Explain quantum mechanics",
+      "answer": "Definition: Quantum mechanics is the fundamental physical theory that describes the behavior of matter and of light; its unusual characteristics typically occur at and below the scale of atoms. Explanation: It is the foundation of all quantum physics, which includes quantum chemistry, quantum biology, quantum field theory, quantum technology, and quantum information science. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T19:01:10.722Z"
+    },
+    {
+      "id": "15c0ea7b-0ff1-4c5c-a683-3f9307d17e48",
+      "userId": null,
+      "question": "What is photosynthesis?",
+      "answer": "Definition: Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism. Explanation: The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds, typically carbohydrates like sugars, starches, phytoglycogen and cellulose. When needing to use this stored energy, an organism's cells then metabolize the organic compounds through cellular respiration. Example: Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T18:59:30.178Z"
+    },
+    {
+      "id": "c7763861-480d-4719-b05e-9a7e4687b33c",
+      "userId": null,
+      "question": "What is photosynthesis?",
+      "answer": "Definition: Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism. Explanation: The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds, typically carbohydrates like sugars, starches, phytoglycogen and cellulose. When needing to use this stored energy, an organism's cells then metabolize the organic compounds through cellular respiration. Example: Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T18:57:00.475Z"
+    },
+    {
+      "id": "84f7c04a-52ff-4e09-a09b-1fcd41d98b2c",
+      "userId": "admin-1",
+      "question": "What is mean by \"COMPUTER\"?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T18:56:04.079Z"
+    },
+    {
+      "id": "5a461d3e-20b3-45ff-9577-638786149813",
+      "userId": "admin-1",
+      "question": "What is mean by \"COMPUTER\"?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T18:53:42.170Z"
+    },
+    {
+      "id": "b1c90509-1b46-4ec1-aa4e-572be4ff2a4e",
+      "userId": "admin-1",
+      "question": "What is mean by \"COMPUTER\"?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T18:38:27.429Z"
+    },
+    {
+      "id": "e2bc90fb-035c-4fb2-80dc-48046bea2f13",
+      "userId": "admin-1",
+      "question": "What is mean by \"COMPUTER\"?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T18:37:13.737Z"
+    },
+    {
+      "id": "efc0ec17-d982-47d2-a10a-8537968638d5",
+      "userId": "admin-1",
+      "question": "What is photosynthesis?",
+      "answer": "Definition: Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism. Explanation: The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds, typically carbohydrates like sugars, starches, phytoglycogen and cellulose. When needing to use this stored energy, an organism's cells then metabolize the organic compounds through cellular respiration. Example: Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T15:42:32.948Z"
+    },
+    {
+      "id": "8490185d-16e6-4f19-9b4b-07a29f8f9ad8",
+      "userId": "fdfa6743-2156-4f4e-8191-eda2d5acf161",
+      "question": "Explain compound interest in simple terms.",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-23T14:52:42.955Z"
+    },
+    {
+      "id": "dae5bd58-dd3e-4fc8-bcfe-f2911f4f7f2d",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "NAME SOME OF THE FAMOUS FOOD IN INDIA",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Personal Development",
+      "createdAt": "2026-04-08T16:59:46.738Z"
+    },
+    {
+      "id": "5ea5e885-db8b-4731-9dfa-0693fd48722c",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "NAME SOME OF THE FSMOUS FOOD IN INDIA",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Personal Development",
+      "createdAt": "2026-04-08T16:59:17.337Z"
+    },
+    {
+      "id": "971c750c-ca4d-401d-9ee5-1478f542979a",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "DO YOU LIKE ME?",
+      "answer": "Definition: \"Do You Like Me?\" is a song by Canadian singer-songwriter Daniel Caesar. Explanation: It was released through Republic Records as the lead single from his third studio album, Never Enough, on January 27, 2023. The song was written and produced by Caesar himself, Raphael Saadiq, and Sir Dylan. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Personal Development",
+      "createdAt": "2026-04-08T16:58:55.584Z"
+    },
+    {
+      "id": "efad99d3-089c-4c53-9d7e-57b48b2e9b0d",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "examples of \"COLOURS\"",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T16:58:27.473Z"
+    },
+    {
+      "id": "135a6a02-39bf-45a7-bf6a-d66838b7c578",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "examples of food",
+      "answer": "Definition: Feudalism was practiced in many different ways, depending on location and period, thus a high-level encompassing conceptual definition does not always provide a reader with the intimate understanding that detailed historical examples provide. Explanation: Feudalism was practiced in many different ways, depending on location and period, thus a high-level encompassing conceptual definition does not always provide a reader with the intimate understanding that detailed historical examples provide. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T16:57:53.320Z"
+    },
+    {
+      "id": "a6d9ecc0-f8de-4434-9893-61e16dcbd90e",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is photosynthesis",
+      "answer": "Definition: Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism. Explanation: The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds, typically carbohydrates like sugars, starches, phytoglycogen and cellulose. When needing to use this stored energy, an organism's cells then metabolize the organic compounds through cellular respiration. Example: Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T16:57:39.902Z"
+    },
+    {
+      "id": "d9d8f8c2-3d8a-4519-9f31-1d4559ed4a92",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:55:27.656Z"
+    },
+    {
+      "id": "b5a2f939-5db3-4262-8f63-4200b6918afc",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:53:59.679Z"
+    },
+    {
+      "id": "ca87fa81-f121-42ca-9866-7a89c8509daf",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:52:24.118Z"
+    },
+    {
+      "id": "dcaf6b69-8965-44e4-99f4-96f677b45013",
+      "userId": null,
+      "question": "What did I just ask you?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T16:50:39.577Z"
+    },
+    {
+      "id": "5300f284-37db-4772-bfba-07a1a763ced7",
+      "userId": null,
+      "question": "Now explain it with a real-life example.",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:50:33.800Z"
+    },
+    {
+      "id": "99b4407b-b030-4b84-9330-a466e2122a76",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:50:32.380Z"
+    },
+    {
+      "id": "d017b02f-c6fb-425a-aab4-9f4a3a716ca8",
+      "userId": null,
+      "question": "What did I just ask you?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T16:49:01.881Z"
+    },
+    {
+      "id": "161331a6-2eee-4cba-b8a6-13543f2f619e",
+      "userId": null,
+      "question": "Now explain it with a real-life example.",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:48:53.594Z"
+    },
+    {
+      "id": "43ef921a-b99c-4e30-8cd8-feaba9f18020",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:48:52.993Z"
+    },
+    {
+      "id": "f706facc-1a55-4458-8f96-29b9dc74b0cd",
+      "userId": null,
+      "question": "What is compound interest?",
+      "answer": "Definition: Compound interest is interest accumulated from a principal sum and previously accumulated interest. Explanation: It is the result of reinvesting or retaining interest that would otherwise be paid out, or of the accumulation of debts from a borrower. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Finance",
+      "createdAt": "2026-04-08T16:48:18.011Z"
+    },
+    {
+      "id": "2cbd4dfc-0b1f-406f-b77f-d821cefbbb71",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "name some famous monuments of India",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:21:01.183Z"
+    },
+    {
+      "id": "363f3b2f-779c-4f31-ac25-feb656d8228d",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "name some famous monuments of India",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:20:27.464Z"
+    },
+    {
+      "id": "0dee1800-cd7c-4aff-b179-4bc011b87b36",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is computer?",
+      "answer": "Definition: A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Explanation: Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:19:55.151Z"
+    },
+    {
+      "id": "af8f83b7-baf5-4d5f-bb25-7d126a42c492",
+      "userId": null,
+      "question": "Explain black holes in simple terms",
+      "answer": "Definition: A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. Explanation: Albert Einstein's theory of general relativity, which describes gravitation as the curvature of spacetime, predicts that any sufficiently compact mass will form a black hole. The boundary of no escape is called the event horizon. In general relativity, crossing a black hole's event horizon traps an object inside but produces no locally detectable change. Example: General relativity also predicts that every black hole should have a central singularity, where the curvature of spacetime is infinite.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:17:07.257Z"
+    },
+    {
+      "id": "7c2acc62-dbc6-4abd-bd8f-a03b8ee5413d",
+      "userId": null,
+      "question": "What is Keynesian economics?",
+      "answer": "Definition: Keynesian economics are the various macroeconomic theories and models of how aggregate demand strongly influences economic output and inflation. Explanation: In the Keynesian view, aggregate demand does not necessarily equal the productive capacity of the economy. It is influenced by a host of factors that sometimes behave erratically and impact production, employment, and inflation. Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:16:06.694Z"
+    },
+    {
+      "id": "63df0e13-cff9-4434-909f-e904bbbfde23",
+      "userId": null,
+      "question": "Explain black holes in simple terms",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:16:02.659Z"
+    },
+    {
+      "id": "84c7fdc7-1aa2-4e3f-b007-82940fd8b766",
+      "userId": null,
+      "question": "test",
+      "answer": "Definition: Test(s), testing, or TEST may refer to:Test (assessment), an educational assessment intended to measure the respondents' knowledge or other abilities Explanation: Test(s), testing, or TEST may refer to:Test (assessment), an educational assessment intended to measure the respondents' knowledge or other abilities Example: This summary is based on encyclopedic reference content.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:14:52.647Z"
+    },
+    {
+      "id": "ebd96b1f-91fa-45a0-8b18-7656b334c502",
+      "userId": null,
+      "question": "What is Keynesian economics?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:14:12.819Z"
+    },
+    {
+      "id": "d8fcb352-a5ad-4e2e-9299-45902f3a7524",
+      "userId": null,
+      "question": "Explain black holes in simple terms",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:14:06.080Z"
+    },
+    {
+      "id": "9aa2f6ae-11f1-4ca3-891a-8ea9c435f5c4",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is solar system?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:08:33.475Z"
+    },
+    {
+      "id": "8cafd747-de82-47c2-88ae-ff0133b02263",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is sand?",
+      "answer": "Definition: Sand is a granular material made mostly of small rock and mineral particles, commonly silica. Explanation: It forms through weathering and erosion of rocks, and its grain size is usually between silt and gravel. Composition varies by location, but quartz is common in many regions. Example: Beach sand often contains quartz grains, while desert sand is shaped by wind and may be more rounded.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:08:17.895Z"
+    },
+    {
+      "id": "adbde394-40b2-479b-bd27-e14308eee691",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "What is solar system?",
+      "answer": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:07:41.202Z"
+    },
+    {
+      "id": "b7161097-b1a1-42e5-a150-3ca68c13d240",
+      "userId": null,
+      "question": "what is sand?",
+      "answer": "Definition: Sand is a granular material made mostly of small rock and mineral particles, commonly silica. Explanation: It forms through weathering and erosion of rocks, and its grain size is usually between silt and gravel. Composition varies by location, but quartz is common in many regions. Example: Beach sand often contains quartz grains, while desert sand is shaped by wind and may be more rounded.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:03:19.332Z"
+    },
+    {
+      "id": "7e2ab0f7-6886-42c5-a548-0ea9436803c7",
+      "userId": null,
+      "question": "what is sand?",
+      "answer": "Definition: Sand is a granular material made mostly of small rock and mineral particles, commonly silica. Explanation: It forms through weathering and erosion of rocks, and its grain size is usually between silt and gravel. Composition varies by location, but quartz is common in many regions. Example: Beach sand often contains quartz grains, while desert sand is shaped by wind and may be more rounded.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:02:42.348Z"
+    },
+    {
+      "id": "997648cc-8e52-4c80-8b54-8761b2f6a6f7",
+      "userId": null,
+      "question": "what is sand?",
+      "answer": "Definition: what is sand? is a topic that can be understood through its core meaning. Explanation: A clear explanation should describe how it works and why it matters in practice. Example: A practical example applies the concept in a real situation to make it easier to understand.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:01:36.954Z"
+    },
+    {
+      "id": "a648fd29-bb10-4fb0-bcbf-e63b3eda30c4",
+      "userId": null,
+      "question": "what is sand?",
+      "answer": "Definition: what is sand? is a topic that can be understood through its core meaning. Explanation: A clear explanation should describe how it works and why it matters in practice. Example: A practical example applies the concept in a real situation to make it easier to understand.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T15:00:30.103Z"
+    },
+    {
+      "id": "232472bd-3945-43cf-b660-cc3fef521a49",
+      "userId": null,
+      "question": "what is sun?",
+      "answer": "Definition: what is sun? is a topic that can be understood through its core meaning. Explanation: A clear explanation should describe how it works and why it matters in practice. Example: A practical example applies the concept in a real situation to make it easier to understand.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:53:29.617Z"
+    },
+    {
+      "id": "a68f3311-e734-470d-8191-d7ec3b7121a9",
+      "userId": null,
+      "question": "what is sand?",
+      "answer": "Definition: what is sand? is a topic that can be understood through its core meaning. Explanation: A clear explanation should describe how it works and why it matters in practice. Example: A practical example applies the concept in a real situation to make it easier to understand.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:52:26.924Z"
+    },
+    {
+      "id": "75f479f5-2b19-48ec-9402-884d4d5652d2",
+      "userId": null,
+      "question": "what is sand?",
+      "answer": "Definition: what is sand? is a topic that can be understood through its core meaning. Explanation: A clear explanation should describe how it works and why it matters in practice. Example: A practical example applies the concept in a real situation to make it easier to understand.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:51:51.612Z"
+    },
+    {
+      "id": "d5116c28-736d-47b9-bbeb-ea22cc5ef227",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is sand?",
+      "answer": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is sand?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:47:30.084Z"
+    },
+    {
+      "id": "d9d6406b-bc9f-4bce-842d-512eecd3db0e",
+      "userId": null,
+      "question": "turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "answer": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: turn this into a shorter explanation, a step-by-step answer, or a study-note format.\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:46:58.274Z"
+    },
+    {
+      "id": "144fa483-59bb-4cab-9136-32d07bfb9289",
+      "userId": null,
+      "question": "what is solar system?",
+      "answer": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is solar system?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:46:39.173Z"
+    },
+    {
+      "id": "74cd67b8-7183-4023-bdd5-1974c92e78a8",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is sand",
+      "answer": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is sand\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:46:15.453Z"
+    },
+    {
+      "id": "104b8006-410b-40b1-bf2d-2bb3ff3a1167",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "Give me a safe general explanation of common vitamin D questions.",
+      "answer": "Vitamin D helps your body absorb calcium and supports healthy bones and muscles.\nCommon questions about vitamin D usually involve sunlight, diet, and supplements.\nIf you want to take it as a supplement, it is best to follow medical guidance.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:35:00.894Z"
+    },
+    {
+      "id": "abf6cbaa-52ea-4525-b0fc-fdd258ddcab0",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "generative ai:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "answer": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: generative ai:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:34:48.941Z"
+    },
+    {
+      "id": "b1eb064a-80f2-4b26-af92-04161ee9863f",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is generative ai?",
+      "answer": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T14:33:55.184Z"
+    },
+    {
+      "id": "0ede80c6-9497-44d7-aa1a-e1e6a1fdcb98",
+      "userId": null,
+      "question": "How does async/await work in JavaScript?",
+      "answer": "Async/await is a cleaner way to work with promises in JavaScript.\n- `async` makes a function return a promise.\n- `await` pauses inside an async function until the promise finishes.\n- It makes asynchronous code look more like normal step-by-step code.\nExample: `const data = await fetch(url);` waits for the response before continuing.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T11:14:58.834Z"
+    },
+    {
+      "id": "50486f68-d608-4f4b-8c41-fca31d272724",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "How does async/await work in JavaScript?",
+      "answer": "No relevant data found",
+      "domain": "Education",
+      "createdAt": "2026-04-08T11:06:40.004Z"
+    },
+    {
+      "id": "b69ab72a-ce56-47e6-8461-81eb733f99b5",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is solar system?",
+      "answer": "No relevant data found",
+      "domain": "Education",
+      "createdAt": "2026-04-08T11:06:27.152Z"
+    },
+    {
+      "id": "85eb9e9c-e470-4808-a294-79370217f290",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "What is the difference between civil and criminal law?",
+      "answer": "No relevant data found",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:35:23.847Z"
+    },
+    {
+      "id": "80cdae89-8a71-4421-8fa9-5d849768fcf9",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "How does async/await work in JavaScript?",
+      "answer": "No relevant data found",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:35:03.050Z"
+    },
+    {
+      "id": "3d25cfa1-b0d1-4465-a540-dd60bcccd546",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is  generative ai",
+      "answer": "No relevant data found",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:33:12.139Z"
+    },
+    {
+      "id": "d6bb8669-2410-4738-b4a3-5c7e752a9480",
+      "userId": null,
+      "question": "what is democracy?",
+      "answer": "No relevant data found",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:31:11.702Z"
+    },
+    {
+      "id": "6a15cb41-4bf9-4466-8054-2252f8500b09",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is  generative ai",
+      "answer": "Data not available from search results. Configure GOOGLE_API_KEY and GOOGLE_CSE_ID in your .env.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:18:29.089Z"
+    },
+    {
+      "id": "32324888-abea-48e0-811d-097fdafdfbdd",
+      "userId": null,
+      "question": "what is democracy?",
+      "answer": "Data not available from search results. Configure GOOGLE_API_KEY and GOOGLE_CSE_ID in your .env.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:14:14.445Z"
+    },
+    {
+      "id": "9bef054e-b71d-4672-97ef-66003abc8c9b",
+      "userId": null,
+      "question": "what is democracy?",
+      "answer": "Found in dataset:\n1. SOCIALSCIENCE(TERM-I).pdf: 9. The phrase ‘ Unity in Diversity’ was coined by (a) Jawaharlal Nehru (b) Ambedkar (c) Mahathma Gandhi (d) Rajaji 10. V.A. Smith called India as _________ (a) Great Democracy (b) Unique land of diversities (c) Ethnological museum (d) Secular nation II. Fill i",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:12:09.224Z"
+    },
+    {
+      "id": "43c5a255-974b-4858-a940-744246cbf72d",
+      "userId": null,
+      "question": "what is democracy?",
+      "answer": "Found in dataset:\n1. SOCIALSCIENCE(TERM-I).pdf: 9. The phrase ‘ Unity in Diversity’ was coined by (a) Jawaharlal Nehru (b) Ambedkar (c) Mahathma Gandhi (d) Rajaji 10. V.A. Smith called India as _________ (a) Great Democracy (b) Unique land of diversities (c) Ethnological museum (d) Secular nation II. Fill i",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:04:14.869Z"
+    },
+    {
+      "id": "dbb11497-ac8c-46a1-8c52-0f73d3d73a1d",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is generative ai",
+      "answer": "No data available. Configure GOOGLE_API_KEY and GOOGLE_CSE_ID in your .env to answer from live Google search.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:03:52.633Z"
+    },
+    {
+      "id": "db975794-2651-4e6c-b92d-e73fb1d642af",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is generative ai",
+      "answer": "No data available",
+      "domain": "Education",
+      "createdAt": "2026-04-08T10:01:27.169Z"
+    },
+    {
+      "id": "558b0db8-51d4-425e-a9f4-6d6a63afe5ad",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "Explain compound interest in simple terms.",
+      "answer": "Found in dataset:\n1. SOCIALSCIENCE(TERM-I).pdf: ) The Great Bath is one of the earliest public tank. ) The civilisation extended from: Makran coast of Baluchistan in west Ghaggar-Hakra river valley in east Afghanistan in the north east Maharashtra in the south Elsewhe\n2. SOCIALSCIENCE(TERM-I).pdf: Bitumen _ water-proof tar Artefact _ an object shaped by human craft of historical interest Dockyard _ an enclosed area of water in a port for loading, unloading and repair of ships. Seal _ an embossed emblem, figure or \n3. SOCIALSCIENCE(TERM-I).pdf: 208 • Mawsynram located in Megalaya, is the land of highest rainfall. • Jaisalmer located in Rajasthan, is the land of lowest rainfall. by favourable climatic conditions for the cultivation of coffee and tea. Diversity i",
+      "domain": "Education",
+      "createdAt": "2026-04-08T09:57:33.402Z"
+    },
+    {
+      "id": "eda6316e-1597-43cb-85c8-2efa8f39c308",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is generative ai",
+      "answer": "No data available",
+      "domain": "Education",
+      "createdAt": "2026-04-08T09:57:24.523Z"
+    },
+    {
+      "id": "ac91c74a-c1e5-45b8-9b70-ffa7f4bcc51e",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is generative ai",
+      "answer": "No data available",
+      "domain": "Education",
+      "createdAt": "2026-04-08T09:55:50.432Z"
+    },
+    {
+      "id": "b01c8b85-6992-45a6-beca-7fd994a1a776",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "What is the difference between civil and criminal law?",
+      "answer": "Found in dataset:\n1. SOCIALSCIENCE(TERM-I).pdf: the difference between Kadavur and Chennai? Tamilini: Kadavur is a village. Chennai is a city. Teacher: Excellent! Teacher: Can you tell what were the earliest planned cities of ancient India? Students: Harappa and Mohen\n2. SOCIALSCIENCE(TERM-I).pdf: by . 2. is known as the city of temples. 3. Masathuvan means . IV. State True or False: 1. Cultural relationship with the outside world developed in Poompuhar because of its trade relationship with it. 2. Women also purc\n3. SOCIALSCIENCE(TERM-I).pdf: a village and a city. 5. Which civilisation is associated with the city Lothal? 6. Name the oldest civilization of the world VI. Answer the following: 1. Write a brief note on ancient cities of India. 2. Mention the anci",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:29:24.229Z"
+    },
+    {
+      "id": "609ed94d-2311-441a-ab5e-4f48db3fc20b",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "name 5 indian monuments",
+      "answer": "Found in dataset:\n1. SOCIALSCIENCE(TERM-I).pdf: 6. Dog was the first animal to be tamed. Why? 7. If you were an archaeologist, what will you do? 8. Name any two Indus sites located in the Indian border? 9. In Indus civilisation,which feature you like the most? Why? 10\n2. SOCIALSCIENCE(TERM-I).pdf: 160 What did Charles Masson see? Ans: List three things people used which we use today? Ans: What else has been found? Ans: Can you say three things unknown to Indus people? Ans: Which metal was unknown to Indus people? \n3. SOCIALSCIENCE(TERM-I).pdf: d. The Pacific and Arctic Oceans HOTS: When you arrange the continents in ascending order according to their size, which ranks third? Activity: Complete the given table with the help of an atlas. Follow the example. Sl.N",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:29:04.720Z"
+    },
+    {
+      "id": "3b892d0d-2e1b-4632-8e15-e1f23e687446",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "How does async/await work in JavaScript?",
+      "answer": "I could not use the LLM right now, so this is an extractive answer from your retrieved PDF text:\n\nand tell them to change the wheels with different shapes like square, triangle etc., and find out how it moves. XII. Map Work On the outline map of India, mark the following places: 1. Adichanallur 2. Attirampakkam Internet Resources 1. www.humanorgins.sid.edu 2. www.yourgenome.org 3. Bhimbetka 4. Hunasagi Valley 5. Lo",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:16:13.451Z"
+    },
+    {
+      "id": "7e8c69df-0591-4c91-977c-fd15c4f98be8",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "tell me about Sanchi Stupa",
+      "answer": "I could not use the LLM right now, so this is an extractive answer from your retrieved PDF text:\n\nThe culture of a group of people is reflected in their social behaviour and interactions. The group identity fostered by social patterns is unique to a group. Art and architecture are an integral part of every community. It develops as a part of culture and tradition of a About 60 percent of the total epigraphical insc",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:16:01.276Z"
+    },
+    {
+      "id": "7072f854-0e2b-437d-a2cd-9749c4993a10",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "What is democracy?",
+      "answer": "Democracy means government by the people, usually through elections and representation.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:15:44.886Z"
+    },
+    {
+      "id": "09bf9ee9-751f-4ba1-a4cf-2707d06a1965",
+      "userId": "admin-1",
+      "question": "Name some of the indian monuments",
+      "answer": "I could not use the LLM right now, so this is an extractive answer from your retrieved PDF text:\n\n128 VII. Answer the following : 1. What is history? 2. What do you know about the pre historic period? 3. What are the sources available to know about the pre-historic period? 4. Mention the places from where we got pre-historic tools. 5. What are the benefits of a museum? 6. Name some tools used by early man to hunt a",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:14:10.760Z"
+    },
+    {
+      "id": "e81bd985-7ee3-4deb-ad90-fbb7acf424c0",
+      "userId": "admin-1",
+      "question": "what is democracy?",
+      "answer": "Democracy means government by the people, usually through elections and representation.",
+      "domain": "Education",
+      "createdAt": "2026-04-08T04:13:37.217Z"
+    },
+    {
+      "id": "6f940087-4065-41f3-a142-40ebedee00a8",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "tell me about sanchi stupa",
+      "answer": "I could not use the LLM right now, so this is an extractive answer from your retrieved PDF text:\n\nThe culture of a group of people is reflected in their social behaviour and interactions. The group identity fostered by social patterns is unique to a group. Art and architecture are an integral part of every community. It develops as a part of culture and tradition of a About 60 percent of the total epigraphical insc",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:13:37.146Z"
+    },
+    {
+      "id": "94c62236-93c1-4da9-8fb5-a3b34e85a2e8",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "tell about sanchi stupa",
+      "answer": "I could not use the LLM right now, so this is an extractive answer from your retrieved PDF text:\n\nThe culture of a group of people is reflected in their social behaviour and interactions. The group identity fostered by social patterns is unique to a group. Art and architecture are an integral part of every community. It develops as a part of culture and tradition of a About 60 percent of the total epigraphical insc",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:11:07.783Z"
+    },
+    {
+      "id": "a9517806-4696-41bd-ac9e-43662d1993f7",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "name some of the famous monuments in India and give details about that",
+      "answer": "I could not use the LLM right now, so this is an extractive answer from your retrieved PDF text:\n\n129 X. Life Skill 1. Make some weapon models used by the Old Stone Age man using clay. 2. Discuss with your grandpa, grandma, neighbours and teachers and collect information about your street, village, town or school. With that collected data, try to write its history titling your writing as “I Am a Historian”. XI. Ans",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:10:33.392Z"
+    },
+    {
+      "id": "3f497835-2671-40a3-8214-7d3e62b87583",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Democracy means government by the people, usually through elections and representation.",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:09:58.259Z"
+    },
+    {
+      "id": "ebf46683-f1c2-4898-bf6f-a3b3bd176eb9",
+      "userId": null,
+      "question": "what is democracy?",
+      "answer": "Democracy means government by the people, usually through elections and representation.",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:09:07.200Z"
+    },
+    {
+      "id": "238d21bc-9d43-42af-ad11-cc4df46185a0",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is democracy?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:02:27.974Z"
+    },
+    {
+      "id": "a91e6d73-cfd1-4f98-b5d6-576e1748d659",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "hello hello",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"hello hello\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T18:00:22.700Z"
+    },
+    {
+      "id": "6ea9e9b2-8b7f-4d7e-8d04-5c1ec71cf775",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is democracy?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T17:59:47.286Z"
+    },
+    {
+      "id": "c3f9bc08-8442-4712-bcc6-341f0f0d7107",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is democracy?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T17:23:25.994Z"
+    },
+    {
+      "id": "a7d7e638-9cdf-41d4-9314-51542efb609e",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is democracy?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T17:22:07.371Z"
+    },
+    {
+      "id": "b1279475-702a-4571-99f5-e115e02c762e",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "How does async/await work in JavaScript?",
+      "answer": "Domain: Programming\nConfidence: 71%\n\nAnswer:\nI matched your question against the programming knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Async functions return promises: In JavaScript, an async function always returns a promise. Await pauses the function until the promise settles, which makes asynchronous code easier to read.\n- Data structures affect performance: Choosing the right data structure changes time and memory complexity. Arrays are simple to index, while maps and sets are often better for fast lookups.\n- APIs should validate input at the edge: Validating request payloads early keeps the rest of the application simpler and safer. It also gives users clearer error messages when something is malformed.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"How does async/await work in JavaScript?\" should I clarify next?",
+      "domain": "Programming",
+      "createdAt": "2026-04-06T17:21:46.130Z"
+    },
+    {
+      "id": "6159f32e-8da4-4acc-b8d5-69ecea821628",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "How does async/await work in JavaScript?",
+      "answer": "Domain: Education\nConfidence: 71%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"How does async/await work in JavaScript?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T17:20:24.248Z"
+    },
+    {
+      "id": "e9bf8b90-b50f-4176-b4ed-069c99f5cc45",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is democracy?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T17:19:58.641Z"
+    },
+    {
+      "id": "0b7c4b33-aa4b-4ac7-a107-5525906965fd",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is democracy?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is democracy?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T17:19:02.523Z"
+    },
+    {
+      "id": "b5e747f2-4138-4c28-b1ba-b742f2b5ae98",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "Give me a safe general explanation of common vitamin D questions.",
+      "answer": "Domain: Healthcare\nConfidence: 53%\n\nAnswer:\nI matched your question against the healthcare knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Medical guidance needs caution: Good health information distinguishes between general education and individualized medical advice. The safest response is to give broad context and recommend a clinician for personal decisions.\n- Lifestyle patterns often affect symptoms: Many common symptoms are influenced by sleep, diet, hydration, and stress. A tutoring system should avoid diagnosis and instead encourage professional care for medical concerns.\n- Prevention is more reliable than correction: Preventive habits such as sleep consistency, exercise, and routine checkups often reduce the chance of later problems. That does not replace diagnosis or treatment.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"Give me a safe general explanation of common vitamin D questions.\" should I clarify next?",
+      "domain": "Healthcare",
+      "createdAt": "2026-04-06T15:10:52.611Z"
+    },
+    {
+      "id": "9202f69d-5bce-4f7c-b33c-1b6abbc50ded",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "Explain compound interest in simple terms.",
+      "answer": "Domain: Education\nConfidence: 53%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"Explain compound interest in simple terms.\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T15:10:32.501Z"
+    },
+    {
+      "id": "11373262-4842-46d7-b916-eeb8d8dd2f3e",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is solar system?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is solar system?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T14:55:31.076Z"
+    },
+    {
+      "id": "a04e50ea-93a0-466d-a148-03b7137b3052",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "What is the difference between civil and criminal law?",
+      "answer": "Domain: Law\nConfidence: 53%\n\nAnswer:\nI matched your question against the law knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Civil and criminal law solve different problems: Civil law usually resolves disputes between people or organizations, while criminal law addresses conduct that violates public statutes and can lead to government prosecution.\n- Contracts depend on offer, acceptance, and consideration: A basic contract analysis starts with offer, acceptance, and consideration, then checks for capacity and legality. Missing one element can change the outcome.\n- Jurisdiction determines which court can hear a case: Jurisdiction depends on the subject matter, geography, and authority of the court. A legal answer should avoid pretending to be legal advice.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"What is the difference between civil and criminal law?\" should I clarify next?",
+      "domain": "Law",
+      "createdAt": "2026-04-06T14:34:02.197Z"
+    },
+    {
+      "id": "69160c0d-b070-4e52-97c7-3ab816381f86",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "what is photosynthesis?",
+      "answer": "Domain: Education\nConfidence: 35%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"what is photosynthesis?\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T13:43:35.456Z"
+    },
+    {
+      "id": "bb4f8c4b-08f7-418b-bccb-20a9c83649b0",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "question": "Explain compound interest in simple terms.",
+      "answer": "Domain: Education\nConfidence: 53%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"Explain compound interest in simple terms.\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T13:37:00.408Z"
+    },
+    {
+      "id": "e46c7ada-fee6-4573-800c-c6a24d239b66",
+      "userId": null,
+      "question": "Explain compound interest in simple terms",
+      "answer": "Domain: Finance\nConfidence: 53%\n\nAnswer:\nI matched your question against the finance knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Compound interest grows on principal and prior interest: Compound interest accumulates because interest is added to the principal, and future interest is calculated on the larger balance. Time has a strong effect on the final amount.\n- Risk and return usually move together: Higher expected returns usually come with higher uncertainty. A good answer explains the tradeoff without promising guaranteed profits.\n- Budgeting starts with cash flow awareness: Budgeting works best when income, fixed expenses, and variable spending are visible. Tracking cash flow makes it easier to set realistic saving goals.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"Explain compound interest in simple terms\" should I clarify next?",
+      "domain": "Finance",
+      "createdAt": "2026-04-06T13:33:24.466Z"
+    },
+    {
+      "id": "cb97fc95-615b-41af-9712-f9ffe6b71818",
+      "userId": null,
+      "question": "Explain compound interest in simple terms",
+      "answer": "Domain: Education\nConfidence: 53%\n\nAnswer:\nI matched your question against the education knowledge base and pulled the most relevant passages before responding.\n\nWhat the retrieved material suggests:\n- Spaced repetition improves retention: Spaced repetition works because review sessions are timed before forgetting becomes complete. It is especially effective for definitions, formulas, and foreign vocabulary.\n- Active recall beats passive rereading: Active recall means retrieving an answer from memory without looking at the source first. It reveals knowledge gaps earlier than rereading notes.\n- Good explanations use structure: A clear explanation usually has a definition, a concrete example, and a short summary of why the concept matters. This helps learners connect new information to prior knowledge.\n\nWhy this answer is safer:\n- It is grounded in retrieved domain content.\n- It avoids overstating certainty when the context is incomplete.\n- It can be refined if you provide more detail.\n\nFollow-up question: What detail about \"Explain compound interest in simple terms\" should I clarify next?",
+      "domain": "Education",
+      "createdAt": "2026-04-06T13:33:03.739Z"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "TKT-1006",
+      "userId": "69eb1778d6b6ee972cb59b2e",
+      "title": "Explain it back clarity issue",
+      "description": "The ticket flow should support clearer feedback and examples for the explanation module.",
+      "domain": "Education",
+      "status": "open",
+      "createdAt": "2026-05-08T06:52:16.695Z",
+      "updatedAt": "2026-05-08T06:52:16.695Z"
+    },
+    {
+      "id": "TKT-1005",
+      "userId": "69eb1778d6b6ee972cb59b2e",
+      "title": "Compound interest",
+      "description": "Not giving the answer in points",
+      "domain": "Education",
+      "status": "open",
+      "createdAt": "2026-04-24T07:14:29.692Z",
+      "updatedAt": "2026-04-24T07:14:29.692Z"
+    },
+    {
+      "id": "TKT-1004",
+      "userId": "fdfa6743-2156-4f4e-8191-eda2d5acf161",
+      "title": "Compound interest",
+      "description": "I could not find it more easy way to explain",
+      "domain": "Education",
+      "status": "open",
+      "createdAt": "2026-04-23T15:13:26.288Z",
+      "updatedAt": "2026-04-23T15:13:26.288Z"
+    },
+    {
+      "id": "TKT-1003",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "title": "heart diseease",
+      "description": "vneagnrklgn",
+      "domain": "Healthcare",
+      "status": "open",
+      "createdAt": "2026-04-06T15:13:06.405Z",
+      "updatedAt": "2026-04-06T15:13:06.405Z"
+    },
+    {
+      "id": "TKT-1002",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "title": "c program",
+      "description": "bhvgcfdxswe5rtyuijokl;",
+      "domain": "Programming",
+      "status": "open",
+      "createdAt": "2026-04-06T13:39:27.587Z",
+      "updatedAt": "2026-04-06T13:39:27.587Z"
+    },
+    {
+      "id": "TKT-1001",
+      "userId": "admin-1",
+      "title": "Need a clearer recursion explanation",
+      "description": "The answer should show the base case and a concrete example.",
+      "domain": "Programming",
+      "status": "open",
+      "createdAt": "2026-04-06T13:32:39.947Z",
+      "updatedAt": "2026-04-06T13:32:39.947Z"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "032dca98-cb4c-4e3e-87ce-07849bdc068f",
+      "type": "up",
+      "message": "Definition: name the continents is an important idea in its subject area. Explanation: It describes the core facts, steps, or principles that help explain how name the continents works. Example: A real-world example of name the continents shows how the idea applies in practice.",
+      "domain": "Auto",
+      "userId": "admin-1",
+      "createdAt": "2026-04-23T19:54:34.892Z"
+    },
+    {
+      "id": "eea4a47d-0c49-4251-a33c-c24eed267146",
+      "type": "down",
+      "message": "Definition: name the continents is an important idea in its subject area. Explanation: It describes the core facts, steps, or principles that help explain how name the continents works. Example: A real-world example of name the continents shows how the idea applies in practice.",
+      "domain": "Auto",
+      "userId": "admin-1",
+      "createdAt": "2026-04-23T19:54:33.188Z"
+    },
+    {
+      "id": "4799033b-43ff-46c7-9c1a-7dc0ab09bef5",
+      "type": "down",
+      "message": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Auto",
+      "userId": "admin-1",
+      "createdAt": "2026-04-23T18:56:12.303Z"
+    },
+    {
+      "id": "2e26d2bb-d192-4b65-8c74-1ad4e11e7c13",
+      "type": "down",
+      "message": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Auto",
+      "userId": "admin-1",
+      "createdAt": "2026-04-23T18:54:39.578Z"
+    },
+    {
+      "id": "e929ff26-1108-4d9e-9ac7-a49d30c26255",
+      "type": "down",
+      "message": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Auto",
+      "userId": "admin-1",
+      "createdAt": "2026-04-23T18:54:37.668Z"
+    },
+    {
+      "id": "0b4caf70-c18e-4366-9260-480bcd7d7c6e",
+      "type": "down",
+      "message": "Definition: The concept has a precise meaning based on established subject knowledge. Explanation: A correct answer should include core principles, key mechanisms, and accurate terminology from the subject. Example: One practical real-world scenario can be used to show how the concept works in application.",
+      "domain": "Auto",
+      "userId": "admin-1",
+      "createdAt": "2026-04-23T18:54:35.958Z"
+    },
+    {
+      "id": "54b86774-7ca3-4cf6-939c-7226dfaad8bc",
+      "type": "down",
+      "message": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.\n\nFollow-up: Would you like a shorter version or an example-based explanation?",
+      "domain": "Auto",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "createdAt": "2026-04-08T14:34:15.910Z"
+    },
+    {
+      "id": "ef6793e6-b9bd-4679-8a7b-c3d807ad998e",
+      "type": "down",
+      "message": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.\n\nFollow-up: Would you like a shorter version or an example-based explanation?",
+      "domain": "Auto",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "createdAt": "2026-04-08T14:34:15.001Z"
+    },
+    {
+      "id": "fc0d44f2-5ddf-4d3c-8358-4a88a0b6c885",
+      "type": "down",
+      "message": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.\n\nFollow-up: Would you like a shorter version or an example-based explanation?",
+      "domain": "Auto",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "createdAt": "2026-04-08T14:34:12.344Z"
+    },
+    {
+      "id": "2514c201-6ee7-47d8-a59c-3ccec179828f",
+      "type": "down",
+      "message": "I am not fully sure, but here is the best possible answer:\nBreak the topic into three parts: definition, how it works, and one example.\nQuestion: what is generative ai?\nIf you want, I can turn this into a shorter explanation, a step-by-step answer, or a study-note format.\n\nFollow-up: Would you like a shorter version or an example-based explanation?",
+      "domain": "Auto",
+      "userId": "2da39f6b-814b-4869-81a2-b876ad8785d7",
+      "createdAt": "2026-04-08T14:34:11.218Z"
+    }
+  ]
+}

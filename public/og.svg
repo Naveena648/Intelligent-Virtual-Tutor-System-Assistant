@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Lumina</title>
+  <desc id="desc">Minimal open graph card for Lumina.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)" />
+  <circle cx="250" cy="120" r="180" fill="rgba(255,255,255,0.12)" />
+  <circle cx="980" cy="530" r="220" fill="rgba(255,255,255,0.10)" />
+  <text x="80" y="260" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700">Lumina</text>
+  <text x="82" y="338" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="32">Focused study workspace for notes and practice</text>
+</svg>
