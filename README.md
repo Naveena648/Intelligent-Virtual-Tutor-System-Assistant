@@ -11,10 +11,6 @@ npm install
 npm run dev
 ```
 
-Frontend: http://localhost:7000
-
-Backend API: http://localhost:5000
-
 ### Demo admin account
 
 Email: admin@lumina.local
@@ -50,9 +46,4 @@ npm run rag:ingest
 ```bash
 npm run rag:query -- "Explain normalization in DBMS"
 ```
-=======
-# Intelligent-Virtual-Tutor-System-Assistant
->>>>>>> 19301d570b9e67e2c7adb6a0fd24d0268ce04c0e
-=======
-# Intelligent-Virtual-Tutor-System-Assistant
->>>>>>> 77357f383dccb01a75628362e954728556afc1bd
+
